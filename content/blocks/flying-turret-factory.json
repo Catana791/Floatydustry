@@ -42,6 +42,16 @@
         "metaglass/45"
       ],
       "time": 140
+    },
+    {
+      "unit": "flying-lancer",
+      "requirements": [
+        "copper/60",
+        "lead/70",
+        "silicon/60",
+        "titanium/30"
+      ],
+      "time": 160
     }
   ],
   "requirements": [ ],

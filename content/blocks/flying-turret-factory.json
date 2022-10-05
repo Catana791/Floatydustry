@@ -17,6 +17,14 @@
         "lead/45"
       ],
       "time": 90
+    },
+    {
+      "unit": "flying-scorch",
+      "requirements": [
+        "copper/25",
+        "graphite/22"
+      ],
+      "time": 60
     }
   ],
   "requirements": [ ],

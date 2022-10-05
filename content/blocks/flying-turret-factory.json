@@ -1,0 +1,20 @@
+{
+  "type": "unitFactory",
+  "name": "Flying Turret Factory",
+  "size": 5,
+  "plans": [
+    {
+      "unit": "flying-duo",
+      "requirements": [
+        {
+          "item": "copper",
+          "amount": 35
+        }
+      ],
+      "time": 30
+    }
+  ],
+  "requirements": [ ],
+  "category": "units",
+  "research": "duo"
+}

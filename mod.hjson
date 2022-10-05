@@ -1,0 +1,27 @@
+{
+  displayName: FlyingTurretDustry
+  repo: Fresh791/FlyingTurretDustry
+  name: ftd
+  
+  author: 
+    ''' 
+    
+    Author: Fresh791
+    
+    '''
+  
+  description: 
+    '''
+    
+    This mod adds all vanilla turrets as units.
+    
+    It is a fun mod and will probably not be all that balanced.
+    
+    (Just imagine a meltdown flying towards you at 100 mp/h)
+    
+    '''
+  
+  subtitle: "This will be fun."
+  minGameVersion: 136
+  version: 1
+}

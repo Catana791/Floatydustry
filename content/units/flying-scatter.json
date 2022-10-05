@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "loaclizedName": "Flying Scatter",
+  "loacalizedName": "Flying Scatter",
   "flying": true,
   "health": 800,
   "speed": 2,

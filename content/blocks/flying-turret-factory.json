@@ -52,6 +52,14 @@
         "titanium/30"
       ],
       "time": 160
+    },
+    {
+      "unit": "flying-arc",
+      "requirements": [
+        "copper/50",
+        "lead/50"
+      ],
+      "time": 60
     }
   ],
   "requirements": [ ],

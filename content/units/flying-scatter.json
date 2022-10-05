@@ -8,7 +8,7 @@
     {
       "x": 0,
       "y": 5,
-      "reload": 14.4,
+      "reload": 14,
       "inaccuracy": 17,
       "range": 220,
       "shoot": {
@@ -18,6 +18,7 @@
       "bullet": {
         "type": "FlakBulletType",
         "lifetime": 60,
+        "speed": 4,
         "width": 6,
         "height": 8,
         "shootEffect": "shootSmall",

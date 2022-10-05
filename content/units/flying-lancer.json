@@ -4,10 +4,11 @@
   "flying": true,
   "health": 1120,
   "speed": 2,
+  "engineOffset": 8,
   "weapons": [
     {
       "x": 0,
-      "y": 10,
+      "y": 6,
       "shoot": {
         "firstShotDelay": 40 
       },

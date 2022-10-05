@@ -33,6 +33,15 @@
         "graphite/17"
       ],
       "time": 40
+    },
+    {
+      "unit": "flying-wave",
+      "requirements": [
+        "copper/25",
+        "lead/75",
+        "metaglass/45"
+      ],
+      "time": 140
     }
   ],
   "requirements": [ ],

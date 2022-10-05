@@ -26,7 +26,7 @@
         "hitEffect": "flakExplosion",
         "fragBullets": 6,
         "fragBullet": {
-          "type": "BasicBulletType";
+          "type": "BasicBulletType",
           "width": 5,
           "height": 12,
           "shrinkY": 1,

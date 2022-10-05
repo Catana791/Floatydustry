@@ -6,12 +6,17 @@
     {
       "unit": "flying-duo",
       "requirements": [
-        {
-          "item": "copper",
-          "amount": 35
-        }
+        "copper/35"
       ],
       "time": 30
+    },
+    {
+      "unit": "flying-scatter",
+      "requirements": [
+        "copper/85",
+        "lead/45"
+      ],
+      "time": 90
     }
   ],
   "requirements": [ ],

@@ -13,6 +13,7 @@
       "rotate": false,
       "bullet": {
         "type": "LightningBulletType",
+        "shootEffect": "lightningShoot",
         "lightningLength": 20,
         "damage": 20,
         "collidesAir": false,

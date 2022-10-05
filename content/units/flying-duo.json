@@ -12,6 +12,7 @@
       "alternate": true,
       "inaccuracy": 2,
       "mirror": true,
+      "rotate": false,
       "bullet": {
         "type": "BasicBulletType",
         "damage": 12,

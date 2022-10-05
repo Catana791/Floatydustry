@@ -3,6 +3,7 @@
   "loaclizedName": "Flying Scatter",
   "flying": true,
   "health": 800,
+  "speed": 2,
   "weapons": [
     {
       "x": 0,

@@ -10,6 +10,8 @@
       "y": 4,
       "reload": 6,
       "shootSound": "flame",
+      "rotate": false,
+      "mirror": false,
       "bullet": {
         "type": "BasicBulletType",
         "hitSize": 7,

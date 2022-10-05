@@ -13,6 +13,7 @@
       "mirror": true,
       "bullet": {
         "type": "BasicBulletType",
+        "damage": 12,
         "height": 9,
         "width": 7,
         "homingPower": 0.1,

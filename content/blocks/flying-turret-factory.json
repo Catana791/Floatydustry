@@ -25,6 +25,14 @@
         "graphite/22"
       ],
       "time": 60
+    },
+    {
+      "unit": "flying-hail",
+      "requirements": [
+        "copper/40",
+        "graphite/17"
+      ],
+      "time": 40
     }
   ],
   "requirements": [ ],

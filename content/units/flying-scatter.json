@@ -1,0 +1,43 @@
+{
+  "type": "flying",
+  "loaclizedName": "Flying Scatter",
+  "flying": true,
+  "health": 800,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 5,
+      "reload": 14.4,
+      "inaccuracy": 17,
+      "range": 220,
+      "shoot": {
+        "shotDelay": 5,
+        "shots": 2
+      },
+      "bullet": {
+        "type": "FlakBulletType",
+        "lifetime": 60,
+        "width": 6,
+        "height": 8,
+        "shootEffect": "shootSmall",
+        "splashDamage": 45,
+        "splashDamageRadius": 20,
+        "damage": 3,
+        "hitEffect": "flakExplosion",
+        "fragBullets": 6,
+        "fragBullet": {
+          "type": "BasicBulletType";
+          "width": 5,
+          "height": 12,
+          "shrinkY": 1,
+          "lifetime": 20,
+          "backColor": "gray",
+          "frontColor": "white",
+          "despawnEffect": "none",
+          "collidesGround": false
+        }
+      }
+    }
+  ],
+  "research": "flying-duo"
+}

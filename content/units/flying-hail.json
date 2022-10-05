@@ -11,6 +11,8 @@
       "reload": 60,
       "inaccuracy": 1,
       "shootSound": "bang",
+      "rotate": false,
+      "mirror": false,
       "bullet": {
         "type": "ArtilleryBulletType",
         "damage": 25,

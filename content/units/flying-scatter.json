@@ -4,7 +4,7 @@
   "flying": true,
   "health": 800,
   "speed": 2,
-  "engineOffset": 16,
+  "engineOffset": 6,
   "weapons": [
     {
       "x": 0,

@@ -116,6 +116,17 @@
         "plastanium/80"
       ],
       "time": 330
+    },
+    {
+      "unit": "flying-foreshadow",
+      "requirements": [
+        "copper/1000",
+        "metaglass/600",
+        "surge-alloy/300",
+        "plastanium/200",
+        "silicon/600"
+      ],
+      "time": 2500
     }
   ],
   "requirements": [ ],

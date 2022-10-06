@@ -98,6 +98,15 @@
         "thorium/100"
       ],
       "time": 450
+    },
+    {
+      "unit": "flying-ripple",
+      "requirements": [
+        "copper/150",
+        "graphite/135",
+        "titanium/60"
+      ],
+      "time": 270
     }
   ],
   "requirements": [ ],

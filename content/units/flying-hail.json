@@ -34,8 +34,5 @@
       }
     }
   ],
-   "research": {
-    "parent": "flying-scorch",
-    "requirements": [ ]
-  }
+   "research": "flying-scorch"
 }

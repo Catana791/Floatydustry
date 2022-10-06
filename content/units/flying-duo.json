@@ -23,5 +23,8 @@
       }
     }
   ],
-  "research": "flying-turret-factory"
+   "research": {
+    "parent": "flying-turret-factory",
+    "requirements": [ ]
+  }
 }

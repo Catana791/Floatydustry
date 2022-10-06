@@ -21,5 +21,8 @@
       }
     }
   ],
-  "research": "flying-lancer"
+   "research": {
+    "parent": "flying-lancer",
+    "requirements": [ ]
+  }
 }

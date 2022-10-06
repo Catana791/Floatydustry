@@ -79,6 +79,16 @@
         "titanium/50"
       ],
       "time": 180
+    },
+    {
+      "unit": "flying-tsunami",
+      "requirements": [
+        "metaglass/100",
+        "lead/400",
+        "titanium/250",
+        "thorium/100"
+      ],
+      "time": 780
     }
   ],
   "requirements": [ ],

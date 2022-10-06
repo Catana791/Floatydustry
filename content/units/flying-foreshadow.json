@@ -27,7 +27,8 @@
         "damage": 1350,
         "buildingDamageMultiplier": 0.2,
         "speed": 500,
-        "hitShake": 6
+        "hitShake": 6,
+        "maxRange": 500
       }
     }
   ],

@@ -30,5 +30,8 @@
       } 
     }
   ],
-  "research": "flying-swarmer"
+   "research": {
+    "parent": "flying-swarmer",
+    "requirements": [ ]
+  }
 }

@@ -3,7 +3,7 @@
   "localizedName": "Flying Tsunami",
   "flying": true,
   "health": 2250,
-  "engineOffset": 8,
+  "engineOffset": 12,
   "speed": 3,
   "weapons": [
     {

@@ -3,12 +3,12 @@
   "localizedName": "Flying Tsunami",
   "flying": true,
   "health": 2250,
-  "engineOffset": 16,
+  "engineOffset": 8,
   "speed": 3,
   "weapons": [
     {
       "x": 0,
-      "y": 22,
+      "y": 16,
       "reload": 3,
       "reload": 3,
       "shootEffect": "shootLiquid",

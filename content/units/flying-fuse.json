@@ -28,8 +28,6 @@
       }
     }
   ],
-   "research": {
-    "parent": "flying-tsunami",
-    "requirements": [ ]
+   "research": "flying-tsunami"
   }
 }

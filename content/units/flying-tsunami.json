@@ -30,5 +30,8 @@
       }
     }
   ],
-  "research": "flying-salvo"
+  "research": {
+    "parent": "flying-salvo",
+    "requirements": [ ]
+  }
 }

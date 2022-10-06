@@ -16,9 +16,9 @@
         "shots": 3,
         "barrels": 3,
         "spread": 3.5,
-        "shotDelay": 6 
+        "shotDelay": 10
       },
-      "reload": 8,
+      "reload": 24,
       "shootSound": "shootSnap",
       "bullet": {
         "type": "FlakBulletType",

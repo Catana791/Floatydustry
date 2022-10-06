@@ -32,5 +32,8 @@
       }
     }
   ],
-  "research": "flying-scatter"
+   "research": {
+    "parent": "flying-scatter",
+    "requirements": [ ]
+  }
 }

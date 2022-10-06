@@ -70,6 +70,15 @@
         "silicon/30"
       ],
       "time": 150
+    },
+    {
+      "unit": "flying-salvo",
+      "requirements": [
+        "copper/100",
+        "graphite/80",
+        "titanium/50"
+      ],
+      "time": 180
     }
   ],
   "requirements": [ ],

@@ -43,5 +43,8 @@
       }
     } 
   ],
-  "research": "flying-wave"
+   "research": {
+    "parent": "flying-wave",
+    "requirements": [ ]
+  }
 }

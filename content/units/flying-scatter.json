@@ -42,5 +42,8 @@
       }
     }
   ],
-  "research": "flying-duo"
+   "research": {
+    "parent": "flying-duo",
+    "requirements": [ ]
+  }
 }

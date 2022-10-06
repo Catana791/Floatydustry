@@ -89,6 +89,15 @@
         "thorium/100"
       ],
       "time": 780
+    },
+    {
+      "unit": "flying-fuse",
+      "requirements": [
+        "copper/225",
+        "graphite/225",
+        "thorium/100"
+      ],
+      "time": 450
     }
   ],
   "requirements": [ ],

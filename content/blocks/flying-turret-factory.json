@@ -60,6 +60,16 @@
         "lead/50"
       ],
       "time": 60
+    },
+    {
+      "unit": "flying-swarmer",
+      "requirements": [
+        "graphite/35",
+        "titanium/35",
+        "plastanium/45",
+        "silicon/30"
+      ],
+      "time": 170
     }
   ],
   "requirements": [ ],

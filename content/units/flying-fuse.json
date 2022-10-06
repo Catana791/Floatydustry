@@ -24,6 +24,7 @@
         "damage": 105,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
+        "toColor": "f9a3c7"
       }
     }
   ],

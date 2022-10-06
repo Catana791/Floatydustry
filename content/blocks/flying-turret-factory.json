@@ -107,6 +107,15 @@
         "titanium/60"
       ],
       "time": 270
+    },
+    {
+      "unit": "flying-cyclone",
+      "requirements": [
+        "copper/200",
+        "titanium/125",
+        "plastanium/80"
+      ],
+      "time": 330
     }
   ],
   "requirements": [ ],

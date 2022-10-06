@@ -15,6 +15,7 @@
       "reload": 200,
       "shootSound": "railgun",
       "unitSort": "strongest",
+      "range": 500,
       "bullet": {
         "type": "PointBulletType",
         "shootEffect": "instShoot",

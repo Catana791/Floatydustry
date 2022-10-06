@@ -3,7 +3,7 @@
   "localizedName": "Flying Fuse",
   "flying": true,
   "speed": 3,
-  "engineOffset": 16,
+  "engineOffset": 14,
   "health": 1980,
   "weapons": [
     {

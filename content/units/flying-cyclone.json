@@ -18,7 +18,7 @@
         "spread": 3.5,
         "shotDelay": 10
       },
-      "reload": 24,
+      "reload": 40,
       "shootSound": "shootSnap",
       "bullet": {
         "type": "FlakBulletType",

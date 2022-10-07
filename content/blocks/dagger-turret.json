@@ -16,5 +16,9 @@
     "width": 7,
     "lifetime": 60
   },
-  "research": "flying-turret-factory"
+  "research": "flying-turret-factory",
+  "requirements": [
+    "lead/10",
+    "silicon/10"
+  ]
 }

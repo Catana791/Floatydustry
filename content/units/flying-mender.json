@@ -1,0 +1,17 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Mender",
+  "flying": true,
+  "health": 80,
+  "speed": 1,
+  "weapons": [ ],
+  "abilities": [
+    {
+      "type": "RepairFieldAbility",
+      "range": 40,
+      "amount": 120,
+      "reload": 200,
+      "activeEffect": "none"
+    }
+  ]
+}

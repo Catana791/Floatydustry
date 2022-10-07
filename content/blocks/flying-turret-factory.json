@@ -1,6 +1,6 @@
 {
   "type": "unitFactory",
-  "name": "Flying Turret Factory",
+  "name": "Flying Block Factory",
   "size": 5,
   "plans": [
     {

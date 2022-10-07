@@ -149,6 +149,14 @@
         "silicon/325"
       ],
       "time": 1800
+    },
+    {
+      "unit": "flying-mender",
+      "requirements": [
+        "copper/25",
+        "lead/30"
+      ],
+      "time": 35
     }
   ],
   "requirements": [ ],

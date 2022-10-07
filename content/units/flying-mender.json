@@ -10,6 +10,7 @@
   "weapons": [
     {
       "x": 0,
+      "shootSound": "nothing",
       "y": 0,
       "shootX": 0,
       "shootY": 0,

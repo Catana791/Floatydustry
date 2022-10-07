@@ -127,6 +127,17 @@
         "silicon/600"
       ],
       "time": 2500
+    },
+    {
+      "unit": "flying-spectre",
+      "requirements": [
+        "copper/900",
+        "graphite/300",
+        "surge-alloy/250",
+        "plastanium/175",
+        "thorium/250"
+      ],
+      "time": 1560
     }
   ],
   "requirements": [ ],

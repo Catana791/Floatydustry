@@ -7,7 +7,7 @@
   "abilities": [
     {
       "type": "RepairFieldAbility",
-      "range": 40,
+      "range": 400,
       "amount": 120,
       "reload": 200
     }

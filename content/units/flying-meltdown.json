@@ -25,7 +25,7 @@
         "length": 200,
         "damage": 78,
         "drawSize": 420,
-        "hitEffect": "hitMeltdown";
+        "hitEffect": "hitMeltdown",
         "hitColor": "meltdownHit",
         "status": "melting",
         "incendChance": 0.4,

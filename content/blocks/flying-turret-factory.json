@@ -138,6 +138,17 @@
         "thorium/250"
       ],
       "time": 1560
+    },
+    {
+      "unit": "flying-meltdown",
+      "requirements": [
+        "copper/1200",
+        "lead/350",
+        "graphite/300",
+        "surge-alloy/325",
+        "silicon/325"
+      ],
+      "time": 1800
     }
   ],
   "requirements": [ ],

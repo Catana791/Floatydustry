@@ -1,0 +1,20 @@
+{
+  "type": "PowerTurret",
+  "localizedName": "Dagger Turret",
+  "powerUse": 0,
+  "health": 150,
+  "reload": 14,
+  "shoot": {
+    "type": "ShootAlternate",
+    "spread": 4 
+  }
+  "shootType": {
+    "type": "BasicBulletType",
+    "speed": 2.5,
+    "damage": 9,
+    "height": 9,
+    "width": 7,
+    "lifetime": 60
+  },
+  "research": "flying-turret-factory"
+}

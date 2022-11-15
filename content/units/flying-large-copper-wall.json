@@ -6,5 +6,6 @@
   "health": 1280,
   "weapons": [ ],
   "research": "flying-small-copper-wall",
-  "engineOffset": 8
+  "engineOffset": 8,
+  "drawCell": false
 }

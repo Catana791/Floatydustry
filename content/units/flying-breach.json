@@ -6,6 +6,7 @@
   "engineSize": 3,
   "speed": 3,
   "health": 1620,
+  "drawCell": false,
   "weapons": [
     {
       "x": 0,

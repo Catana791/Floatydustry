@@ -9,6 +9,24 @@
   "drawCell": false,
   "research": "flying-breach",
   "range": 125,
+  "parts": [
+    {
+      "type": "RegionPart",
+      "suffix": "-front",
+      "progress": "warmup",
+      "moveRot": -10,
+      "mirror": true,
+      "moves": [
+        {
+          "type": "PartMove",
+          "progress": "recoil",
+          "x": 0,
+          "y": -3,
+          "rot": -5
+        }
+      ]
+    }
+  ],
   "weapons": [
     {
       "x": 0,

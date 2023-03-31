@@ -185,6 +185,25 @@
         "titanium/24"  
       ],
       "time": 140
+    },
+    {
+      "unit": "flying-breach",
+      "requirements": [
+        "graphite/250",
+        "silicon/150",
+        "beryllium/150"
+      ],
+      "time": 550
+    },
+    {
+      "unit": "flying-diffuse",
+      "requirements": [
+        "graphite/200",
+        "silicon/200",
+        "beryllium/150",
+        "tungsten/50"
+      ],
+      "time": 615
     }
   ],
   "requirements": [ ],

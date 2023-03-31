@@ -2,6 +2,51 @@
   "type": "flying",
   "flying": true,
   "name": "Flying Diffuse",
+  "engineOffset": 14,
+  "engineSize": 3,
   "speed": 3,
-  "
+  "health": 1620,
+  "drawCell": false,
+  "research": "flying-breach",
+  "range": 125,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 5,
+      "shoot": {
+        "type": "ShootSpread",
+        "shots": 15,
+        "spread": 4
+      },
+      "reload": 30,
+      "recoil": 0,
+      "mirror": false,
+      "rotate": false,
+      "shootSound": "shootAltLong",
+      "shootCone": 40,
+      "inaccuracy": 0.2,
+      "velocityRnd": 0.17,
+      "shake": 1,
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 41,
+        "knockback": 4,
+        "width": 25,
+        "hitSize": 7,
+        "height": 20,
+        "shootEffect": "shootBigColor",
+        "smokeEffect": "shootSmokeSquareSparse",
+        "hitColor": "ea8878",
+        "backColor": "ea8878",
+        "trailColor": "ea8878",
+        "frontColor": "da8181",
+        "trailWidth": 6,
+        "trailLength": 3,
+        "hitEffect": "hitSquaresColor",
+        "despawnEffect": "hitSquaresColor",
+        "buildingDamageMultiplier": 0.2
+      }
+    }
+  ]
 }

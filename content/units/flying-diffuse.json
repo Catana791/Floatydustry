@@ -50,6 +50,7 @@
         "speed": 8,
         "damage": 41,
         "knockback": 4,
+        "lifetime": 15,
         "width": 25,
         "hitSize": 7,
         "height": 20,

@@ -21,6 +21,7 @@ groundLayer: 69.69
 buildSpeed: 1.25
 drag: 0.4
 weapons: [
+{
   shoot: {
     shots: 30
   }
@@ -40,4 +41,5 @@ weapons: [
       }
     ]
   }
+}
 ]

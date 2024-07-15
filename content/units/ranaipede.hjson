@@ -24,11 +24,11 @@ weapons: [
 {
   shoot: {
     shots: 30
-    shootDelay: 6
+    shotDelay: 6
   }
   reload: 30
   inaccuracy: 360
-  
+  shootCone: 360
   shootSound: wind3
   bullet: {
     type: LaserBulletType

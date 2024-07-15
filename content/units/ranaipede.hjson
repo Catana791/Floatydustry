@@ -24,20 +24,28 @@ weapons: [
 {
   shoot: {
     shots: 30
+    shootDelay: 6
   }
   reload: 30
   inaccuracy: 360
+  
   shootSound: wind3
   bullet: {
     type: LaserBulletType
-    width: 6
-    length: 340
+    width: 12
+    length: 600
     damage: 9001
+    pierce: true
+    pierceBuilding: true
+    pierceArmor: true
     spawnBullets: [
       {
         type: LightningBulletType
         lightningLength: 30
         damage: 4200
+    pierce: true
+    pierceBuilding: true
+    pierceArmor: true
       }
     ]
   }

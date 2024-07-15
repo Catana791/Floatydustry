@@ -21,4 +21,23 @@ groundLayer: 69.69
 buildSpeed: 1.25
 drag: 0.4
 weapons: [
+  shoot: {
+    shots: 30
+  }
+  reload: 30
+  inaccuracy: 360
+  shootSound: wind3
+  bullet: {
+    type: LaserBulletType
+    width: 6
+    length: 340
+    damage: 9001
+    spawnBullets: [
+      {
+        type: LightningBulletType
+        lightningLength: 30
+        damage: 4200
+      }
+    ]
+  }
 ]

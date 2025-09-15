@@ -1,0 +1,10 @@
+{
+  "type": "flying",
+  "flying": true,
+  "localizedName": "Flying Copper Wall",
+  "speed": 1,
+  "health": 320,
+  "weapons": [ ],
+  "research": "flying-turret-factory",
+  "drawCell": false
+}

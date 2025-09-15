@@ -1,0 +1,58 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Ripple",
+  "flying": true,
+  "health": 1170,
+  "speed": 3,
+  "engineOffset": 12,
+  "engineSize": 3,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 14,
+      "mirror": false,
+      "rotate": false,
+      "reload": 60,
+      "shoot": {
+        "shots": 4 
+      },
+      "inaccuracy": 12,
+      "minRange": 50,
+      "range": 290,
+      "shootSound": "artillery",
+      "velocityRnd": 0.2,
+      "bullet": {
+        "type": "ArtilleryBulletType",
+        "sprite": "shell",
+        "speed": 3.4,
+        "damage": 20,
+        "hitEffect": "plasticExplosion",
+        "knockback": 1,
+        "lifetime": 80,
+        "width": 13,
+        "height": 13,
+        "collidesTiles": false,
+        "splashDamageRadius": 26.25,
+        "splashDamage": 45,
+        "fragBullet": {
+          "type": "BasicBulletType",
+          "sprite": "bullet",
+          "damage": 10,
+          "speed": 2.5,
+          "width": 10,
+          "height": 12,
+          "shrinkY": 1,
+          "lifetime": 15,
+          "backColor": "d8d97f",
+          "frontColor": "fffac6",
+          "despawnEffect": "none",
+          "collidesAir": false,
+        },
+        "fragBullets": 10,
+        "backColor": "d8d97f",
+        "frontColor": "fffac6" 
+      }
+    }
+  ],
+  "research": "flying-fuse"
+}

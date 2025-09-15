@@ -1,0 +1,37 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Salvo",
+  "flying": true,
+  "health": 960,
+  "speed": 2,
+  "engineOffset": 8,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 9,
+      "rotate": false,
+      "mirror": false,
+      "shootSound": "shootBig",
+      "ejectEffect": "casing2",
+      "shoot": {
+        "shots": 3,
+        "shotDelay": 3
+      },
+      "reload": 31,
+      "bullet": {
+        "type": "BasicBulletType",
+        "width": 10,
+        "height": 13,
+        "shootEffect": "shootBig",
+        "smokeEffect": "shootBigSmoke",
+        "damage": 29,
+        "speed": 4,
+        "lifetime": 60,
+      } 
+    }
+  ],
+   "research": {
+    "parent": "flying-swarmer",
+    "requirements": [ ]
+  }
+}

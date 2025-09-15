@@ -1,0 +1,50 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Lancer",
+  "flying": true,
+  "health": 1120,
+  "speed": 2,
+  "engineOffset": 8,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 6,
+      "shoot": {
+        "firstShotDelay": 40 
+      },
+      "reload": 80,
+      "shootSound": "laser",
+      "mirror": false,
+      "rotate": false,
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 140,
+        "buildingDamageMultiplier": 0.25,
+        "hitEffect": "hitLancer",
+        "shootEffect": "lancerLaserShoot",
+        "smokeEffect": "none",
+        "hitSize": 4,
+        "lifetime": 16,
+        "drawSize": 400,
+        "length": 173,
+        "pierceCap": 4,
+        "collidesAir": false,
+        "chargeEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "name": "lancerLaserCharge" 
+            },
+            { 
+              "name": "lancerLaserChargeBegin"
+            }
+          ]
+        }
+      }
+    } 
+  ],
+   "research": {
+    "parent": "flying-wave",
+    "requirements": [ ]
+  }
+}

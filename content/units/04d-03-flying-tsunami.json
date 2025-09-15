@@ -1,0 +1,38 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Tsunami",
+  "flying": true,
+  "health": 2250,
+  "engineOffset": 12,
+  "engineSize": 3,
+  "speed": 3,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 12,
+      "reload": 3,
+      "reload": 3,
+      "shootEffect": "shootLiquid",
+      "inaccuracy": 4,
+      "mirror": false,
+      "rotate": false,
+      "bullet": {
+        "type": "LiquidBulletType",
+        "liquid": "cryofluid",
+        "lifetime": 49,
+        "speed": 4,
+        "knockback": 1.3,
+        "damage": 0.2,
+        "statusDuration": 240,
+        "status": "freezing",
+        "drag": 0.001,
+        "orbSize": 4,
+        "puddleSize": 8
+      }
+    }
+  ],
+  "research": {
+    "parent": "flying-salvo",
+    "requirements": [ ]
+  }
+}

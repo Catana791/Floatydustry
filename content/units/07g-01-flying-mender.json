@@ -1,0 +1,32 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Mender",
+  "flying": true,
+  "health": 80,
+  "speed": 1,
+  "defaultController": "RepairAI",
+  "weapons": [
+    {
+      "x": 0,
+      "shootSound": "nothing",
+      "y": 0,
+      "shootX": 0,
+      "shootY": 0,
+      "rotate": false,
+      "mirror": false,
+      "shootCone": 360,
+      "reload": 200,
+      "bullet": {
+        "instantDisappear": true,
+        "damage": 1,
+        "collidesTeam": true,
+        "healPercent": 4,
+        "collidesAir": true,
+        "collidesTiles": true,
+        "splashDamageRadius": 40,
+        "splashDamage": 1
+      }
+    }
+  ],
+  "research": "flying-turret-factory"
+}

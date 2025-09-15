@@ -1,0 +1,45 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Swarmer",
+  "flying": true,
+  "health": 1200,
+  "speed": 2,
+  "engineOffset": 8,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 10,
+      "mirror": false,
+      "rotate": false,
+      "shoot": {
+        "type": "ShootAlternate",
+        "shots": 4,
+        "barrels": 3,
+        "spread": 3.5,
+        "shotDelay": 5
+      },
+      "reload": 30,
+      "inaccuracy": 10,
+      "shootSound": "missile",
+      "bullet": {
+        "type": "MissileBulletType",
+        "damage": 18,
+        "speed": 3.7,
+        "height": 8,
+        "width": 8,
+        "shrinkY": 0,
+        "splashDamageRadius": 25,
+        "splashDamage": 35,
+        "hitEffect": "blastExplosion",
+        "despawnEffect": "blastExplosion",
+        "lightningDamage": 10,
+        "lightning": 2,
+        "lightningLength": 10
+      }
+    }
+  ],
+   "research": {
+    "parent": "flying-arc",
+    "requirements": [ ]
+  }
+} 

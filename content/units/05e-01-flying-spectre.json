@@ -1,0 +1,37 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Spectre",
+  "flying": true,
+  "speed": 4,
+  "engineOffset": 18,
+  "engineSize": 6,
+  "health": 2560,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 20,
+      "mirror": false,
+      "rotate": false,
+      "shoot": {
+        "type": "ShootAlternate",
+        "spread": 8
+      },
+      "shootSound": "shootBig",
+      "inaccuracy": 3,
+      "reload": 7,
+      "bullet": {
+        "damage": 80,
+        "speed": 8,
+        "type": "BasicBulletType",
+        "hitSize": 5,
+        "width": 16,
+        "height": 23,
+        "shootEffect": "shootBig",
+        "pierceCap": 2,
+        "pierceBuilding": true,
+        "knockback": 0.7
+      }
+    }
+  ],
+  "research": "flying-foreshadow"
+}

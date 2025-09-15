@@ -1,0 +1,38 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Meltdown",
+  "flying": true,
+  "speed": 4,
+  "health": 3200,
+  "engineOffset": 18,
+  "engineSize": 6,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 20,
+      "mirror": false,
+      "rotate": false,
+      "reload": 320,
+      "firingMoveFract": 0.5,
+      "shootSound": "laserbig",
+      "loopSound": "beam",
+      "loopSoundVolume": 2,
+      "shootEffect": "shootBigSmoke2",
+      "continuous": true,
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "length": 200,
+        "damage": 78,
+        "lifetime": 230,
+        "drawSize": 420,
+        "hitEffect": "hitMeltdown",
+        "hitColor": "meltdownHit",
+        "status": "melting",
+        "incendChance": 0.4,
+        "incendSpread": 5,
+        "incendAmount": 1,
+      }
+    }
+  ],
+  "research": "flying-spectre"
+}

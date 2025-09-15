@@ -1,0 +1,11 @@
+{
+  "type": "flying",
+  "flying": true,
+  "localizedName": "Flying Large Titanium Wall",
+  "speed": 2,
+  "health": 1760,
+  "weapons": [ ],
+  "research": "flying-small-titanium-wall",
+  "engineOffset": 8,
+  "drawCell": false
+}

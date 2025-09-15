@@ -1,0 +1,27 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Duo",
+  "flying": true,
+  "health": 250,
+  "speed": 1,
+  "weapons": [
+    {
+      "x": -2,
+      "y": 1,
+      "reload": 20,
+      "alternate": true,
+      "inaccuracy": 2,
+      "mirror": true,
+      "rotate": false,
+      "bullet": {
+        "type": "BasicBulletType",
+        "damage": 12,
+        "height": 9,
+        "width": 7,
+        "homingPower": 0.1,
+        "lifetime": 60
+      }
+    }
+  ],
+   "research": "flying-turret-factory"
+}

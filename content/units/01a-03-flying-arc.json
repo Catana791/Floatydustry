@@ -1,0 +1,25 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Arc",
+  "flying": true,
+  "health": 260,
+  "speed": 1,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 2,
+      "reload": 35,
+      "mirror": false,
+      "rotate": false,
+      "bullet": {
+        "type": "LightningBulletType",
+        "shootEffect": "lightningShoot",
+        "lightningLength": 20,
+        "damage": 20,
+        "collidesAir": false,
+        "buildingDamageMultiplier": 0.25,
+      }
+    }
+  ],
+   "research": "flying-lancer"
+}

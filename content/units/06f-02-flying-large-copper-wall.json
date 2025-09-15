@@ -1,0 +1,11 @@
+{
+  "type": "flying",
+  "flying": true,
+  "localizedName": "Flying Large Copper Wall",
+  "speed": 2,
+  "health": 1280,
+  "weapons": [ ],
+  "research": "flying-small-copper-wall",
+  "engineOffset": 8,
+  "drawCell": false
+}

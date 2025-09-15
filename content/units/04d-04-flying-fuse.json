@@ -1,0 +1,33 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Fuse",
+  "flying": true,
+  "speed": 3,
+  "engineOffset": 14,
+  "engineSize": 3,
+  "health": 1980,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 16,
+      "mirror": false,
+      "rotate": false,
+      "reload": 35,
+      "shootSound": "shotgun",
+      "shoot": {
+        "type": "ShootSpread",
+        "shots": 3,
+        "spread": 20
+      },
+      "bullet": {
+        "type": "ShrapnelBulletType",
+        "length": 100,
+        "damage": 105,
+        "shootEffect": "thoriumShoot",
+        "smokeEffect": "thoriumShoot",
+        "toColor": "f9a3c7"
+      }
+    }
+  ],
+   "research": "flying-tsunami"
+}

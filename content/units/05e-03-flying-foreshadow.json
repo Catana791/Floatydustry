@@ -1,0 +1,36 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Foreshadow",
+  "flying": true,
+  "health": 2400,
+  "speed": 4,
+  "engineOffset": 18,
+  "engineSize": 6,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 20,
+      "mirror": false,
+      "rotate": false,
+      "reload": 200,
+      "shootSound": "railgun",
+      "unitSort": "strongest",
+      "range": 500,
+      "bullet": {
+        "type": "PointBulletType",
+        "shootEffect": "instShoot",
+        "hitEffect": "instHit",
+        "smokeEffect": "smokeCloud",
+        "trailEffect": "instTrail",
+        "despawnEffect": "instBomb",
+        "trailSpacing": 20,
+        "damage": 1350,
+        "buildingDamageMultiplier": 0.2,
+        "speed": 500,
+        "hitShake": 6,
+        "maxRange": 500
+      }
+    }
+  ],
+  "research": "flying-cyclone"
+}

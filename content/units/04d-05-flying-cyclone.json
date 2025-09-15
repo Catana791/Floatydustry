@@ -1,0 +1,40 @@
+{
+  "type": "flying",
+  "localizedName": "Flying Cyclone",
+  "flying": true,
+  "health": 1305,
+  "speed": 3,
+  "engineOffset": 12,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 12,
+      "mirror": false,
+      "rotate": false,
+      "shoot": {
+        "type": "ShootAlternate",
+        "shots": 3,
+        "barrels": 3,
+        "spread": 3.5,
+        "shotDelay": 10
+      },
+      "reload": 30,
+      "shootSound": "shootSnap",
+      "bullet": {
+        "type": "FlakBulletType",
+        "speed": 4.5,
+        "damage": 13,
+        "splashDamage": 75,
+        "splashDamageRadius": 38,
+        "lightning": 2,
+        "lightningLength": 7,
+        "lightningDamage": 13,
+        "shootEffect": "shootBig",
+        "collidesGround": true,
+        "explodeRange": 20
+      }
+    }
+  ],
+  "research": "flying-ripple"
+}
+  

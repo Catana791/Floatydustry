@@ -1,0 +1,24 @@
+type: UnitAssembler
+name: Flying Turret Assembler
+description: Creates flying turret units using payloads. Requires power.
+size: 3
+category: units
+//droneType: 18r-12-mounting-drone
+alwaysUnlocked: true
+requirements: [
+  copper/120
+]
+plans: [
+  {
+    type: AssemblerUnitPlan
+    unit: 01a-01-flying-duo
+    requirements: [
+      copper-wall/6
+    ]
+    time: 30
+  }
+]
+consumes: {
+  power: 2
+}
+areaSize: 9
